@@ -153,8 +153,8 @@ h1{
     border-radius: 5%;
     box-shadow: 3px 3px 6px rgba(117,206,218,0.5);
     border: 1px solid lightgrey;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     text-align: center;
   }
 }
